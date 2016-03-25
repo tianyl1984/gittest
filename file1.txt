@@ -1,1 +1,2 @@
 ﻿file___________file
+bug2 fix
