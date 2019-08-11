@@ -10,3 +10,4 @@ cached
 
 1234
 git add
+git fetch test
